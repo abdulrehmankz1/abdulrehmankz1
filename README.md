@@ -1,5 +1,8 @@
 ## Hi there, I'm Abdul Rehman 👋
 
+## GitHub Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=abdulrehmankz1&color=blueviolet)
+
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdulrehmankz1&show_icons=true&count_private=true&hide_title=true)
 
