@@ -3,8 +3,6 @@
 ### GitHub Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=abdulrehmankz1&color=blueviolet)
 
-### Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdulrehmankz1)
 
 ---
 
