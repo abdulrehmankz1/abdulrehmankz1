@@ -9,9 +9,9 @@
 ---
 
 ### 🌟 My Current Focus
-- 🔭 **Working on:** E-commerce project using **Next.js, TypeScript, and Tailwind CSS**.
-- 🌱 **Learning:** JavaScript from scratch with daily tasks to master the fundamentals and advanced techniques.
-- 🌱 **Also exploring:** Advanced **React.js** techniques to deepen my knowledge and improve my projects.
+- 🚀 **Building & Exploring:** Crafting projects with **Next.js, Tailwind CSS, and ShadCN** to refine my skills.  
+- 🎯 **Diving Deeper:** Enhancing my expertise in **React.js, Next.js, and Angular** with advanced techniques.  
+- 💡 **Tech Stack:** **HTML, CSS, JavaScript, TypeScript, React, Next.js, Angular, Tailwind CSS, Bootstrap, ShadCN, Kendo UI**, and more.  
 - 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/abdul-rehman-khanzada-661757237) or via email: **khanzadaabdulrehman1@gmail.com**
 ---
 
