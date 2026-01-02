@@ -13,47 +13,11 @@ I’m a frontend developer focused on building modern, responsive user interface
 
 ## 🧠 Current Focus in 2026
 
-- Building real world projects using **React, Next.js, Angular, and React Native**
-- Working with modern CMS solutions and eCommerce platforms
-- Improving performance, architecture, and clean UI practices
-- Learning and experimenting with **Docker**, **MongoDB**, and advanced Shopify workflows
-- Exploring runtime and deployment tools like **Wasmer**
-- Staying consistent with learning and adapting to new technologies
-
----
-
-## 🛠️ Tech Stack
-
-### Core Web
-- HTML  
-- CSS  
-- JavaScript  
-- TypeScript  
-
-### Frameworks and Libraries
-- React  
-- Next.js  
-- Angular  
-- React Native  
-
-### Styling and UI
-- Tailwind CSS  
-- Bootstrap  
-- MUI  
-- ShadCN UI  
-- Kendo UI  
-
-### CMS and Platforms
-- Payload CMS  
-- WordPress  
-- Shopify  
-- Shopify Hydrogen  
-
-### Backend and Tools
-- PHP  
-- MongoDB (learning)  
-- Docker (learning)  
-- Wasmer  
+- 🚀 Building real world projects using **React, Next.js, Angular, and React Native**
+- 🧩 Working with modern CMS solutions and eCommerce platforms
+- ⚡ Improving performance, architecture, and clean UI practices
+- 🧪 Learning and experimenting with **Docker**, **MongoDB**, and advanced Shopify workflows
+- 📚 Staying consistent with learning and adapting to new technologies
 
 ---
 
@@ -63,10 +27,7 @@ Web development never stands still. New tools and frameworks appear frequently, 
 
 ---
 
-## 📫 Connect With Me
-
-- LinkedIn: https://www.linkedin.com/in/abdul-rehman-khanzada-661757237  
-- Email: khanzadaabdulrehman1@gmail.com  
+📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/abdul-rehman-khanzada-661757237) or via email: **khanzadaabdulrehman1@gmail.com**
 
 ---
 
