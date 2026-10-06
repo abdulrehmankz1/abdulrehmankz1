@@ -1,39 +1,55 @@
 ## Hi, I'm Abdul Rehman 👋
 
-### 👀 Profile Views  
+**Full-Stack Developer · Next.js, Payload CMS & Mobile Apps**
+
+I build SaaS platforms, business dashboards and mobile apps that real teams use every day.
+
 ![Profile Views](https://komarev.com/ghpvc/?username=abdulrehmankz1&color=blueviolet)
 
 ---
 
-## 🚀 About Me
+## 🚀 What I Do
 
-I'm a full-stack developer focused on building modern web and mobile applications. I create fast, scalable, and user-friendly digital products using modern technologies across frontend, backend, and mobile development.
+- 🧩 **Payload CMS** backends, admin panels and multi-tenant setups
+- ⚡ **Next.js** web apps, SaaS dashboards and MVPs
+- 📱 **Flutter & React Native** apps, published on App Store & Google Play
+- 🤖 **AI features**: chatbots, RAG search and LLM integrations
 
----
-
-## 🧠 Current Focus in 2026
-
-- 🚀 Building real-world apps using **React, Next.js, Angular, Node.js, React Native, and Flutter**
-- 🤖 Working on **AI integrations**, chatbots, and intelligent features
-- ⚙️ Building **AI automations and workflows using GoHighLevel (GHL)**
-- 📱 Developing cross-platform mobile applications
-- 🧩 Working with CMS platforms and eCommerce solutions
-- ⚡ Improving system design, performance, and clean architecture
-- 📚 Continuously learning and adapting to modern technologies
+🎓 MongoDB certified: AI Agents · RAG Apps · Vector Search
 
 ---
 
-## 💡 Development Approach
+## 📌 Featured Projects
 
-I focus on practical, scalable solutions with clean code and the right tools for each problem. I like understanding real-world needs first, then building systems that actually solve them.
+**🏥 [matab](https://github.com/abdulrehmankz1/clinic-management)** · [Live Demo](https://clinic-management-hazel.vercel.app/)
+
+Multi-tenant clinic management SaaS with server-enforced tenant isolation, double-booking prevention and 80 integration tests.
+
+`Payload CMS 3` `Next.js 16` `MongoDB` `TypeScript`
+
+**🚚 [Distribution Tracker](https://github.com/abdulrehmankz1/distribution-tracker)** · [Live Demo](https://distribution-tracker.vercel.app/)
+
+Logistics & inventory system with automatic stock updates, invoicing and role-based dashboards.
+
+`Payload CMS 3` `Next.js 15` `MongoDB` `Recharts`
 
 ---
 
-## 📫 Contact
+## 🧰 Tech Stack
 
-- LinkedIn: https://www.linkedin.com/in/abdul-rehman-khanzada-661757237  
+**Web:** Next.js · React · TypeScript · Node.js · Express · Tailwind CSS
+
+**CMS & Data:** Payload CMS · MongoDB · Supabase · Firebase · WordPress · Shopify
+
+**Mobile:** Flutter · React Native
+
+**AI & Tools:** RAG · Vector Search · OpenAI API · Vitest · Docker · Vercel
+
+---
+
+## 📫 Connect
+
+- LinkedIn: https://www.linkedin.com/in/abdul-rehman-khanzada-661757237
 - Email: [khanzadaabdulrehman1@gmail.com](mailto:khanzadaabdulrehman1@gmail.com)
-
----
 
 ⭐ Consistency is my edge. I keep building, learning, and getting better every day.
