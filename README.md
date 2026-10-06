@@ -2,7 +2,7 @@
 
 **Full-Stack Developer · Next.js, Payload CMS & Mobile Apps**
 
-I build SaaS platforms, business dashboards and mobile apps that real teams use every day.
+I build SaaS platforms, business dashboards and mobile apps that real teams use every day. Over the past 3 years I've worked on everything from multi-tenant SaaS and inventory systems to Flutter apps on the App Store, and I care most about code that's secure, tested and easy to maintain.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=abdulrehmankz1&color=blueviolet)
 
